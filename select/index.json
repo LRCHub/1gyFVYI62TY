@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "ETERNAL WIND ～ほほえみは光る風の中～",
+  "base_artist": "森口博子",
+  "createdAt": "2025-12-01T14:02:26.006550Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ETERNAL WIND-ほほえみは光る風の中- - LIVE",
+      "artist": "森口博子",
+      "has_synced": false,
+      "path": "select/01_ETERNAL_WIND-ほほえみは光る風の中-_-_LIVE_森口博子.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ETERNAL WIND〜ほほえみは光る風の中〜",
+      "artist": "森口博子",
+      "has_synced": true,
+      "path": "select/02_ETERNAL_WIND〜ほほえみは光る風の中〜_森口博子.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ETERNAL WIND~ほほえみは光る風の中~ (機動戦士ガンダムF91)",
+      "artist": "Nami Tamaki",
+      "has_synced": true,
+      "path": "select/03_ETERNAL_WIND~ほほえみは光る風の中~_(機動戦士ガンダムF91)_Nami_Tamaki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ETERNAL WIND～ほほえみは光る風の中～",
+      "artist": "森口博子",
+      "has_synced": true,
+      "path": "select/04_ETERNAL_WIND~ほほえみは光る風の中~_森口博子.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ETERNAL WIND～ほほえみは光る風の中～",
+      "artist": "Moriguchi, Hiroko",
+      "has_synced": true,
+      "path": "select/05_ETERNAL_WIND~ほほえみは光る風の中~_Moriguchi,_Hiroko.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ETERNAL WIND ～ほほえみは光る風の中～",
+      "artist": "Hiroko Moriguchi",
+      "has_synced": false,
+      "path": "select/06_ETERNAL_WIND_~ほほえみは光る風の中~_Hiroko_Moriguchi.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ETERNAL WIND ～ほほえみは光る風の中～",
+      "artist": "Hiroko Moriguchi",
+      "has_synced": true,
+      "path": "select/07_ETERNAL_WIND_~ほほえみは光る風の中~_Hiroko_Moriguchi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ETERNAL WIND ~ほほえみは光る風の中~",
+      "artist": "中川翔子",
+      "has_synced": true,
+      "path": "select/08_ETERNAL_WIND_~ほほえみは光る風の中~_中川翔子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Eternal Wind",
+      "artist": "池田 綾子",
+      "has_synced": false,
+      "path": "select/pl_01_Eternal_Wind_池田_綾子.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ETERNAL WIND ~ほほえみは光る風の中~ 2015Ver.",
+      "artist": "池田 綾子",
+      "has_synced": false,
+      "path": "select/pl_02_ETERNAL_WIND_~ほほえみは光る風の中~_2015Ver._池田_綾子.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ETERNAL WIND ～ほほえみは光る風の中～ [ドルビーサラウンドバージョン]",
+      "artist": "池田 綾子",
+      "has_synced": false,
+      "path": "select/pl_03_ETERNAL_WIND_~ほほえみは光る風の中~_[ドルビーサラウンドバージョン]_池田_綾子.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ETERNAL WIND ～ほほえみは光る風の中～",
+      "artist": "池田 綾子",
+      "has_synced": false,
+      "path": "select/pl_04_ETERNAL_WIND_~ほほえみは光る風の中~_池田_綾子.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ETERNAL WIND ～ほほえみは光る風の中～",
+      "artist": "池田 綾子",
+      "has_synced": false,
+      "path": "select/pl_05_ETERNAL_WIND_~ほほえみは光る風の中~_池田_綾子.txt"
+    }
+  ]
+}
